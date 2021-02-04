@@ -2,7 +2,7 @@
   font-family: "BungeeFont";
   font-weight: normal;
   font-style: normal;
-  src: url("Bungee.ttf");
+  src: url("resources/Bungee.ttf");
 }
 *, *:before, *:after {
   -webkit-user-select: none;
